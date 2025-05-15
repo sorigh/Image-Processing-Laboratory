@@ -1,1 +1,1 @@
-# Image-Processing-Laboratory
+# Image_Processing_UTCN_Labs
